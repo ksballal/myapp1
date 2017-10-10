@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
 		System.out.println( "New branch myapp2 is added!" );
 		System.out.println( "New branch myapp3 is added!" );
+		System.out.println( "New branch myapp4 is added!" );
     }
 }
