@@ -11,5 +11,6 @@ public class App
         //deleted this line added another line
 		
 		System.out.println( "myApp8" );
+		System.out.println( "Hello World" );
     }
 }
